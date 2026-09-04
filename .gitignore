@@ -1,5 +1,0 @@
-/target
-Cargo.lock
-*.sst
-wal.log
-.DS_Store
